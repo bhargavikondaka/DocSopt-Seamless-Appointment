@@ -70,7 +70,7 @@ Project Files/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/srivaishnavi26/DocSpot-Seamless-Appointment-Booking-for-Health.git
+git clone https://github.com/bhargavikondaka/DocSopt-Seamless-Appointment.
 cd DocSpot-Seamless-Appointment-Booking-for-Health
 ````
 
@@ -117,5 +117,4 @@ NODE_ENV=development
 
 This project was developed as part of the SmartInternz Short-Term Internship 2025, a guided full-stack learning program.
 Special thanks to SmartBridge and SmartInternz for their support and mentorship.
-## Author
 
